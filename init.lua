@@ -1,1 +1,1 @@
-require("mic-x01.lazy")
+require("mic-x01.config.lazy")
