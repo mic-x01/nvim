@@ -1,5 +1,1 @@
-require("config.defaults")
-require("config.keymaps")
-require("plugins").setup()
-
-
+require("mic-x01.lazy")
