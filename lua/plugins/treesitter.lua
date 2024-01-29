@@ -8,7 +8,6 @@ return {
       "erlang",
       "haskell",
       "rust",
-      "c_sharp",
     },
   },
 }

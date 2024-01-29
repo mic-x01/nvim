@@ -3,5 +3,5 @@ return {
   {
     "nvim-neotest/neotest",
     opts = { adpaters = { "neotest-dotnet" } },
-  }
+  },
 }
